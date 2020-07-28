@@ -1,1 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
+
+aux_links:
+  "Tabulae on github":
+    - "https://github.com/neelsmith/tabulae/"
